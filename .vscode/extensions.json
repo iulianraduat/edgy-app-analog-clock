@@ -1,0 +1,50 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+  // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+  // List of extensions which should be recommended for users of this workspace.
+  "recommendations": [
+    // https://marketplace.visualstudio.com/items?itemName=bierner.color-info
+    "bierner.color-info",
+    // https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
+    "christian-kohler.npm-intellisense",
+    // https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+    "christian-kohler.path-intellisense",
+    // https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+    "dbaeumer.vscode-eslint",
+    // https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+    "eamodio.gitlens",
+    // https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+    "esbenp.prettier-vscode",
+    // https://marketplace.visualstudio.com/items?itemName=fcrespo82.markdown-table-formatter
+    "fcrespo82.markdown-table-formatter",
+    // https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+    "formulahendry.auto-close-tag",
+    // https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+    "formulahendry.auto-rename-tag",
+    // https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+    "Gruntfuggly.todo-tree",
+    // https://marketplace.visualstudio.com/items?itemName=miclo.sort-typescript-imports
+    "miclo.sort-typescript-imports",
+    // https://marketplace.visualstudio.com/items?itemName=mikeburgh.xml-format
+    "mikeburgh.xml-format",
+    // https://marketplace.visualstudio.com/items?itemName=mohd-akram.vscode-html-format
+    "mohd-akram.vscode-html-format",
+    // https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+    "naumovs.color-highlight",
+    // https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest
+    "Orta.vscode-jest",
+    // https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
+    "pflannery.vscode-versionlens",
+    // https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker
+    "swyphcosmo.spellchecker",
+    // https://marketplace.visualstudio.com/items?itemName=vitaliymaz.vscode-svg-previewer
+    "vitaliymaz.vscode-svg-previewer",
+    // https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+    "wayou.vscode-todo-highlight",
+    // https://marketplace.visualstudio.com/items?itemName=xyz.local-history
+    "xyz.local-history"
+  ],
+  // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+  "unwantedRecommendations": []
+}
