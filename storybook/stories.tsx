@@ -30,6 +30,7 @@ const apiForAppCfgThemeDark = new Api({
 });
 
 storiesOf('App', module)
+  .addParameters({ options: { showPanel: false } })
   .add('the clock creator', () => (
     <div style={style}>
       <DefineAnalogClockProps />
